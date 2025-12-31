@@ -3,7 +3,7 @@
 **Office Flow** (formerly Office Utilities) is a modern, single-page application (SPA) plugin for WordPress designed to streamline internal office operations. It helps small to medium businesses manage employee requests, track expenses, and handle team communications efficiently directly from the WordPress dashboard.
 
 ## 🎥 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the Demo](https://img.youtube.com/vi/bHlmA5CsXoU/0.jpg)](https://www.youtube.com/watch?v=bHlmA5CsXoU)
 
 *(Click the image above to watch the walkthrough)*
 
