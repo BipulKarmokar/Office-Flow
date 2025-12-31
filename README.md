@@ -1,5 +1,7 @@
 # Office Flow - WordPress Office Management Plugin
 
+[![Download Latest Version](https://img.shields.io/badge/Download-office--utilities.zip-blue?style=for-the-badge&logo=wordpress)](https://github.com/BipulKarmokar/Office-Flow/raw/main/office-utilities.zip)
+
 **Office Flow** (formerly Office Utilities) is a modern, single-page application (SPA) plugin for WordPress designed to streamline internal office operations. It helps small to medium businesses manage employee requests, track expenses, and handle team communications efficiently directly from the WordPress dashboard.
 
 ## 🎥 Demo Video
