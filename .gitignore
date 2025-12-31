@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+
+# Build
+build/
+*.zip
+assets/dist/
+
+# Composer
+vendor/
+composer.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
